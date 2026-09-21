@@ -33,4 +33,4 @@ Or, from the project root, both at once: `npm run dev`
 | DELETE | /api/todos/:id    | Delete a task  |
 =======
 # mern-to-do
->>>>>>> 1592594d32f625d3760b0ee59010ffeead75a1ec
+
