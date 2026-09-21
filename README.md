@@ -1,3 +1,4 @@
+
 # MERN Todo
 
 MongoDB + Express + React + Node.js task manager.
@@ -30,3 +31,6 @@ Or, from the project root, both at once: `npm run dev`
 | POST   | /api/todos        | Add a task     |
 | PUT    | /api/todos/:id    | Update a task  |
 | DELETE | /api/todos/:id    | Delete a task  |
+=======
+# mern-to-do
+>>>>>>> 1592594d32f625d3760b0ee59010ffeead75a1ec
